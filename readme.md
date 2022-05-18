@@ -1,13 +1,17 @@
+# ang
+
 Develop an ordering system
 2 classes are expected: Manager and Order
 
-# Manager class
+<br />
+<br />
+## Manager class
 Manager class must have orders dictionary, in which keys are Order objects and values are quantity of good in stock
 
-# Order class
+## Order class
 Order class must have attributes like id, name, price
 
-# Program functionality
+## Program functionality
 
 - Adding new order to orders dictionary
 When adding object which id is already in the dictionary, do not add a new key-value pair, just increment the quantity (value) in dictionary
@@ -17,9 +21,11 @@ Decrease value by 1 in dictionary with specified id
 
 
 
+<br />
+<br />
+<br />
 
-
-
+# pl
 
 Zrób system, który obsługiwał będzie określone zamówienia. 
 W programie istnieć będą 2 klasy: Manager oraz Order. 
