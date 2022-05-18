@@ -5,6 +5,7 @@ Develop an ordering system
 
 <br />
 <br />
+
 ## Manager class
 Manager class must have orders dictionary, in which keys are Order objects and values are quantity of good in stock
 
